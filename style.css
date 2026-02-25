@@ -1,0 +1,21 @@
+body{
+    background-color: #b8e4e4;
+}
+
+#hero {
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    border: black 1px solid;
+}
