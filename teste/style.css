@@ -1,0 +1,19 @@
+.linhas {
+    display: flex;
+}
+
+.box{
+    width: 165px;
+    height: 100px;
+}
+
+#Noroeste{background: url(assets/images/mapa03.png) no-repeat center center/cover;}
+#Norte{background: url(assets/images/mapa07.png) no-repeat center center/cover;}
+#Nordeste{background: url(assets/images/mapa05.png) no-repeat center center/cover;}
+#Oeste{background: url(assets/images/mapa09.png) no-repeat center center/cover;}
+#Centro{background: url(assets/images/mapa01.png) no-repeat center center/cover;}
+#Leste{background: url(assets/images/mapa08.png) no-repeat center center/cover;}
+#Sudoeste{background: url(assets/images/mapa06.png) no-repeat center center/cover;}
+#Sul{background: url(assets/images/mapa02.png) no-repeat center center/cover;}
+#Sudeste{background: url(assets/images/mapa04.png) no-repeat center center/cover;}
+
