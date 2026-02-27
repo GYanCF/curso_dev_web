@@ -1,0 +1,2 @@
+Icons: https://www.flaticon.com/br
+Icons: https://ionic.io/ionicons/usage
