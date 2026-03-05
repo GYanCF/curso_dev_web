@@ -1,0 +1,13 @@
+img{
+    width: 300px
+}
+
+main{
+    background-color: cyan;
+    padding: 5px
+}
+
+article{
+    border: 1px solid blue;
+    width: 500px;
+}
