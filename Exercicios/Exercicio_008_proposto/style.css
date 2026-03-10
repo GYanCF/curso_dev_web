@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid red;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#main_conteiner {
+    margin: 0% 2.5%;
+    width: 100%;
+}

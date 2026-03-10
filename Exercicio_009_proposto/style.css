@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: dodgerblue;
+}
+
+#main_layout {
+    margin: 1% 10%;
+    width: 100%;
+    padding: 1.5%;
+    background-color: white;
+    border-radius: 30px;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1 {
+    margin: 0.5%;
+}
+
+picture {
+    display: block;
+    background: url(assets/images/imagem_prato.jpg) no-repeat center center/100%;
+    width:95%;
+    height: 250px;
+    border-radius: 30px;
+    border: 3px solid black
+}
+
+legend {
+    margin: 2px 0px 0px 0px;
+    text-align: right;
+    width: 90%;
+}
+
+article {
+    margin: 0.4%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul, ol, p{
+    width:100%;
+    margin: 1% 0% 0% 5%;
+}
+
+footer {
+}
