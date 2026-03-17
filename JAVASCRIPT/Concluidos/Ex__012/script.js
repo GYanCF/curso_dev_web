@@ -20,5 +20,4 @@ function btn_verificar() {
         maior = num3
 
     displayer.innerHTML = `O maior valor é: ${maior}`
-
 }

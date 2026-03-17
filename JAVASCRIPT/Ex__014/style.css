@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+#frame {
+    background-color: blue;
+    display: block;
+    justify-content: center;
+    width: 90%;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#displayer {
+    padding: 2%;
+    background-color: lightblue;
+    height: 500px;
+    color: black;
+    font-weight: thin;
+}
+
+label, input {
+    width: 80%;
+    margin: 0% 20%;
+}
+
+button {
+    margin: 2%
+}
