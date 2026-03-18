@@ -1,0 +1,11 @@
+Um site para uma pizzaria chamada "Pizzaria di mario" com foco nas cores vermelha
+branca e azul, a ideia principal é ser tipo um ecommerce, com algumas opções de pizzas
+com valores e etc em cada pizza, valores ficticios por favor, opções de pizza agora:
+calabresa, marguerita, 4 queijos, frango e requeijao, e 1 ultima opção de "Monte sua pizza"!
+
+A ideia do "monte sua pizza" é que abra uma pagina onde tenha o desenho de uma pizza no meio da
+pagina, e que tenha 2 paleta de igredientes em ambos os lados da pizza, com alguns ingredientes
+que devem ser pressionado, arrastado e solto em cima das pizzas, para montar a pizza
+
+de preferencia eu quero, que quando o ingrediente selecionado para ser arrastado em cima da pizza no momento que o ingrediente estiver por cima da pizza, mostrar um tipo de, "holograma"
+para que o usuario tenha noção de como ficaria espalhado o ingrediente
